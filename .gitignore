@@ -1,0 +1,14 @@
+node_modules/
+dist/
+*.tsbuildinfo
+test-results/
+playwright-report/
+reference/
+/flutter/.dart_tool/
+/flutter/.pub-cache/
+/flutter/build/
+/flutter/windows/flutter/ephemeral/
+/flutter/.flutter-plugins-dependencies
+/release/*
+!/release/AstraPathing.exe
+!/release/AstraPathing-Windows.zip
